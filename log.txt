@@ -1,0 +1,8 @@
+#LOG FOR METRO.ZHISHAN-IOT.GA
+
+#Powered by webmaster(at)zhishan-iot.ga
+#Pictures from kayiji3039(at)zhhishan-iot.ga
+
+#2017-08-20: add file- XM/v7.0.0
+
+#END
