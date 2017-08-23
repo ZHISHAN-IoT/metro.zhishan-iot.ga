@@ -10,4 +10,8 @@
                 *modify layout between Line-2 and Line-6
 	        *add [Sports Center] station
              (2)add file XM/XM_v7.0.2-HD.jpg
+#2017-08-23 add file XM/XM_v7.0.3.jpg
+            *add distance between Line-3 and Line-4 in Xiang'an
+            *adjust font color of hilight note in Note part
+	    *add [Longjiangmingzhu] station on Line-6
 #END
