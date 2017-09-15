@@ -14,4 +14,6 @@
             *add distance between Line-3 and Line-4 in Xiang'an
             *adjust font color of hilight note in Note part
 	    *add [Longjiangmingzhu] station on Line-6
+#2017-09-15 add [Other] directory and add img_0001.jpeg
+
 #END
