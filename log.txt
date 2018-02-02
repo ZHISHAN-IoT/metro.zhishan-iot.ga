@@ -1,7 +1,7 @@
 #LOG FOR METRO.ZHISHAN-IOT.GA
 
-#Powered by webmaster(at)zhishan-iot.ga
-#Pictures are provided by kayiji3039(at)zhhishan-iot.ga
+#Powered by admin(at)metro.zhishan-iot.ga
+#Route maps are all provided by kayiji3039(at)zhhishan-iot.ga
 
 #2017-08-20 add file XM/XM_v7.0.0.jpg
 #2017-08-20 add file XM/XM_v7.0.1.jpg
@@ -19,5 +19,9 @@
             (2)use new rule to name the map file
 #2018-01-27 (1)add new route map XM_v7.0.4r
             (2)add index page
+#2018-02-02 (1)add new route map XM_v7.0.5r
+            *update Line-6's info.
+	    *add line number signs
+	    (2)modify index.html
 
 #END
