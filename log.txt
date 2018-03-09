@@ -7,21 +7,28 @@
 #2017-08-20 add file XM/XM_v7.0.1.jpg
              *correct English name of [Maluan West] station
 #2017-08-21 (1)add file XM/XM_v7.0.2.jpg
-                *modify layout between Line-2 and Line-6
-	        *add [Sports Center] station
+             *modify layout between Line-2 and Line-6
+	         *add [Sports Center] station
             (2)add file XM/XM_v7.0.2-HD.jpg
 #2017-08-23 add file XM/XM_v7.0.3.jpg
-            *add distance between Line-3 and Line-4 in Xiang'an
-            *adjust font color of hilight note in Note part
-	    *add [Longjiangmingzhu] station on Line-6
+             *add distance between Line-3 and Line-4 in Xiang'an
+             *adjust font color of hilight note in Note part
+	         *add [Longjiangmingzhu] station on Line-6
 #2017-09-15 add [Other] directory and add img_0001.jpeg
 #2017-12-30 (1)adjust directory structment(including create "map" directory)
             (2)use new rule to name the map file
 #2018-01-27 (1)add new route map XM_v7.0.4r
             (2)add index page
 #2018-02-02 (1)add new route map XM_v7.0.5r
-            *update Line-6's info.
-	    *add line number signs
-	    (2)modify index.html
+             *update Line-6's info.
+	         *add line number signs
+	        (2)modify index.html
+#2018-03-12 (1)add new route map XM_v7.0.6r
+             *from this version,versions for under running(for all cities) change some details,includues followings:
+	          > change " [CityName] Metro " into " [CityName] Metro System Map "
+	          > add version code which surrounded by brackets after date
+              > adjust line-4
+	    *move location of Dadeng Norh station
+            (2)modify index.html
 
 #END
