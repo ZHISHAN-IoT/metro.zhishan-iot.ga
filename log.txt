@@ -1,7 +1,7 @@
 #LOG FOR METRO.ZHISHAN-IOT.GA
 
 #Powered by admin(at)metro.zhishan-iot.ga
-#Route maps are all provided by kayiji3039(at)zhhishan-iot.ga
+#Route maps are all provided by kayiji3039(at)zhishan-iot.ga
 
 #2017-08-20 add file XM/XM_v7.0.0.jpg
 #2017-08-20 add file XM/XM_v7.0.1.jpg
@@ -23,12 +23,14 @@
              *update Line-6's info.
 	         *add line number signs
 	        (2)modify index.html
-#2018-03-12 (1)add new route map XM_v7.0.6r
+#2018-03-09 (1)add new route map XM_v7.0.6r
              *from this version,versions for under running(for all cities) change some details,includues followings:
 	          > change " [CityName] Metro " into " [CityName] Metro System Map "
 	          > add version code which surrounded by brackets after date
               > adjust line-4
-	    *move location of Dadeng Norh station
+	         *move location of Dadeng Norh station
             (2)modify index.html
+#2018-03-13 add new route map XM_v7.0.7r
+             *modify bug in yellow tag
 
 #END
