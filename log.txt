@@ -31,6 +31,7 @@
 	         *move location of Dadeng Norh station
             (2)modify index.html
 #2018-03-13 add new route map XM_v7.0.7r
-             *modify bug in yellow tag
+             *modify bug in yellow tag			 
+#2018-03-17 upload XM_v7.0.7r.jpg again,modify version code
 
 #END
