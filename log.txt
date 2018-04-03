@@ -33,5 +33,6 @@
 #2018-03-13 add new route map XM_v7.0.7r
              *modify bug in yellow tag			 
 #2018-03-17 upload XM_v7.0.7r.jpg again,modify version code
+#2019-04-03 add new route map FZ_v3.0.0p
 
 #END
